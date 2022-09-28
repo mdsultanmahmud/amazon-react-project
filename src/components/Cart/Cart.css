@@ -1,0 +1,8 @@
+.cart{
+    position: sticky;
+    top: 0;
+}
+.cart-heading{
+    text-transform: uppercase;
+    text-align: center;
+}
